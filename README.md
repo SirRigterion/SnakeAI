@@ -6,11 +6,15 @@
 
 Нейросетевой агент, обучающийся играть в «Змейку» (Pygame + простая Linear Q-Net). Включает игру, модель, тренер и визуализацию прогресса.
 
+<div align="center">
+  <img src="public/snake.gif" alt="Logo" style="width: 450px; height: 250px;"/>
+</div>
+
 ## Быстрый запуск
 
 ```bash
 git clone https://github.com/SirRigterion/SnakeAI.git
-cd <repo-folder>
+cd SnakeAI
 
 python -m venv .venv
 # Windows
